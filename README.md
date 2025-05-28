@@ -175,10 +175,8 @@ tensorboard --logdir runs
 ```
 ├── CIFAR_10_Image_Classification_with_Custom_ResNet_14.ipynb  # Main notebook
 ├── requirements.txt      # Python dependencies
-├── README.md            # Project documentation
-└── runs/                # TensorBoard logs (generated during training)
-    ├── resnet14_experiment/
-    └── resnet14_tuned_adam/
+└── README.md            # Project documentation
+
 ```
 
 ## 🛠️ Customization Options
